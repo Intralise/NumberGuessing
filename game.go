@@ -38,7 +38,7 @@ func playGame() {
 		res := attempt(i)
 		if res {
 			color.Green("Вы угадали! \n Игра окончена")
-			result = "Выигрыш"
+			result = "Победа"
 			i = 10
 			break
 		}
