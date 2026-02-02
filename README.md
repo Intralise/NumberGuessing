@@ -5,7 +5,7 @@
 Консольное приложение для игры в слова, доступны несколько сложностей и сохранение результатов
 
 ## Установка
-git clone https://github.com/yourname/number-guessing-game.git
+git clone https://github.com/Intralise/NumberGuessing.git
 cd number-guessing-game
 
 ## Способы запуска
