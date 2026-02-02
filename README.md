@@ -5,8 +5,10 @@
 Консольное приложение для игры в слова, доступны несколько сложностей и сохранение результатов
 
 ## Установка
+```bash
 git clone https://github.com/Intralise/NumberGuessing.git
-cd number-guessing-game
+cd NumberGuessing
+```
 
 ## Способы запуска
 - Консольный запуск приложения через go run .
